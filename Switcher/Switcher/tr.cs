@@ -9,15 +9,14 @@ namespace Switcher
     class tr
     {
         //NO API, NO,NO
-        public static string misaneIP = "35.228.101.58";
+        public static string misaneIP = "185.255.134.174";
 
-        public static string onminase = "Вы сейчас играете на osu!minase";
+        public static string onminase = "You are playing now on Aluri";
 
+        public static string onoff = "You are currently playing on the official server";
 
-        public static string onoff = "Вы сейчас играете на оффициальном сервере";
+        public static string switchtominase = "Change the server to Aluri";
 
-        public static string switchtominase = "Перейди на сервер osu!minase";
-
-        public static string switchtooff = "Перейти на официальный сервер";
+        public static string switchtooff = "Change the server to the official";
     }
 }
